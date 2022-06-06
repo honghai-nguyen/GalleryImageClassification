@@ -1,16 +1,7 @@
-# gallery_image_classification
+# Gallery Image Classification
 
-A new Flutter project.
+**Demo**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Environments: Android Studio with Flutter framework on Smartphone device (Pixel 4 XL API 31)
+ 
+ Link for video demonstration: [DEMO](https://drive.google.com/file/d/1ExLSySe16w9gWsKgwDyT89ODv59Lffdx/view?usp=sharing) 
